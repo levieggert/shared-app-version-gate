@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "ios": {
+    "required_build_number": 1,
+    "latest_build": 1,
+    "store_url": "https://apps.apple.com/app/id0000000000",
+    "force_update_message_localized_key": "force_update_message",
+    "legacy_devices": {
+      "max_supported_os_major": 15,
+      "bypass_force_update": true
+    }
+  },
+  "android": {
+    "required_build_number": 1,
+    "latest_build": 1,
+    "store_url": "https://play.google.com/store/apps/details?id=com.example.app",
+    "force_update_message_localized_key": "force_update_message",
+    "legacy_devices": {
+      "max_supported_os_major": 15,
+      "bypass_force_update": true
+    }
+  }
+}
