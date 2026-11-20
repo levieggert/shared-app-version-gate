@@ -16,7 +16,7 @@
     "store_url": "https://play.google.com/store/apps/details?id=com.example.app",
     "force_update_message_localized_key": "force_update_message",
     "legacy_devices": {
-      "max_supported_os_major": 15,
+      "max_supported_os_major": 24,
       "bypass_force_update": true
     }
   }
